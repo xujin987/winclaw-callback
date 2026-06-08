@@ -1,0 +1,7 @@
+{
+  "name": "winclaw-callback",
+  "version": "1.0.0",
+  "description": "WinClaw 企业微信回调处理",
+  "main": "api/callback.js",
+  "dependencies": {}
+}
